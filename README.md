@@ -1,4 +1,4 @@
-# DataSus/ DSTS
+# DataSus/ IST's
 
 **Atributos**
 Disponibilidade de Vacinas
@@ -24,6 +24,12 @@ Sífilis
 Infecção pelo HTLV
 Tricomoníase
 Gênero
+Número de Parceiros Sexuais
+Orientação Sexual
+Raça/Cor
+Data da Notificação
+Localização Geográfica
+Uso de Preservativos
 
 
 
