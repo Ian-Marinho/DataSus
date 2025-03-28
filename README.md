@@ -28,15 +28,12 @@
   - ● Empregabilidade → (Taxa de Desemprego, Setores de Trabalho)
 
 - Acesso e Utilização dos Serviços de Saúde
-  - ● Disponibilidade de Vacinas → (Vacinas Contra HPV, Hepatite B, HIV)
   - ● Investimento do SUS → (Gasto por Região, Infraestrutura)
   - ● Custo de Plano de Saúde → (Acessibilidade, Cobertura de Tratamento)
   - ● Uso de Preservativos → (Taxa de Adesão, Distribuição Gratuita)
   - ● Saneamento e Infraestrutura → (Descarte de Agulhas, Acesso a Banheiros)
 
 - Epidemiologia das ISTs
-  - ● Doenças Mais Comuns → (Sífilis, HPV, Gonorreia, Clamídia)
-  - ● Doenças Menos Frequentes → (Donovanose, Cancro Mole, HTLV)
   - ● Campanhas Preventivas → (Frequência, Alcance Populacional)
   - ● Notificação de Casos → (Data da Notificação, Subnotificação)
   - ● Localização Geográfica → (Regiões com Maior Incidência)
