@@ -1,29 +1,16 @@
-# DataSus/ IST's
+# DataSus/ IST's (Aids)
 
 **Atributos**
 
-- Disponibilidade de Vacinas
 - Campanhas preventivas
 - Empregabilidade
 - Escolaridade 
 - Anafalbetismo
 - Custo de Plano de Saude
 - Investimento do Sus
-- Doenças mais comums
-- Doenças menos frequentes
 - Prevenção pre-natal
 - Saneamento (Descarte de agulhas, etc)
 - Faixa etária
-- Herpes genital
-- Cancro mole (cancroide)
-- HPV
-- Doença Inflamatória Pélvica (DIP)
-- Donovanose
-- Gonorreia e infecção por Clamídia
-- Linfogranuloma venéreo (LGV)
-- Sífilis
-- Infecção pelo HTLV
-- Tricomoníase
 - Gênero
 - Número de Parceiros Sexuais
 - Orientação Sexual
