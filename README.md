@@ -8,7 +8,7 @@ Mapear focos de AIDS por estado no Brasil para subsidiar ações de prevenção 
 
 A AIDS continua sendo um importante problema de saúde pública no Brasil, com impactos significativos na qualidade de vida das pessoas afetadas e nos sistemas de saúde. Apesar dos avanços no diagnóstico, tratamento e prevenção, ainda há desigualdades regionais na distribuição dos casos, refletindo diferenças socioeconômicas, culturais e no acesso aos serviços de saúde. Diante disso, o mapeamento geográfico dos focos da doença por estado é importante para identificar áreas que precisam de uma maior intervenção, com o intuito de otimizar o uso de recursos e direcionar estratégias de prevenção e controle mais eficazes. Com essas informações de distribuição espacial da AIDS no território brasileiro, é possível desenvolver políticas públicas mais direcionadas a essas regiões.
 
-**Atributos**
+## Atributos ##
 
 - Campanhas preventivas
 - Empregabilidade
@@ -27,7 +27,7 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 - Localização Geográfica
 - Uso de Preservativos
 
-**Modelo Conceitual**
+## Modelo Conceitual ##
 - Perfil Sociodemográfico
   - ● Faixa Etária → (Idade, População Jovem vs. Idosos)
   - ● Gênero e Orientação Sexual → (Sexo Biológico, Identidade de Gênero, Orientação Sexual)
@@ -51,9 +51,14 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
   - ● Uso de Preservativos → (Consistência no Uso, Barreiras Culturais)
   - ● Histórico de ISTs → (Recorrência, Tratamento Prévio)
   - ● Prevenção Pré-Natal → (Acompanhamento de Gestantes)
+ 
+  ## Referencia para os atributos ##
+
+  Ângela Lúcia Lopes, Orientadora/Professora da Universidade Ciências Médicas, especificamente na area de ISTS. 
+  
 
 
-**Links uteis**
+## Links uteis ##
 
 https://datasus.saude.gov.br/transferencia-de-arquivos/
 
