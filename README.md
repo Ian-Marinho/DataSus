@@ -1,5 +1,13 @@
 # DataSus/ IST's (Aids)
 
+## Objetivo ##
+
+Mapear focos de AIDS por estado no Brasil para subsidiar ações de prevenção e controle da infecção pelo HIV
+
+## Justificativa ##
+
+A AIDS continua sendo um importante problema de saúde pública no Brasil, com impactos significativos na qualidade de vida das pessoas afetadas e nos sistemas de saúde. Apesar dos avanços no diagnóstico, tratamento e prevenção, ainda há desigualdades regionais na distribuição dos casos, refletindo diferenças socioeconômicas, culturais e no acesso aos serviços de saúde. Diante disso, o mapeamento geográfico dos focos da doença por estado é importante para identificar áreas que precisam de uma maior intervenção, com o intuito de otimizar o uso de recursos e direcionar estratégias de prevenção e controle mais eficazes. Com essas informações de distribuição espacial da AIDS no território brasileiro, é possível desenvolver políticas públicas mais direcionadas a essas regiões.
+
 **Atributos**
 
 - Campanhas preventivas
