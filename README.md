@@ -54,7 +54,7 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
  
   ## Referencia para os atributos ##
 
-  Ângela Lúcia Lopes, Orientadora/Professora da Universidade Ciências Médicas, especificamente na area de ISTS. 
+  Ângela Lúcia Lopes, Orientadora/Professora da Faculdade de Ciências Médicas de Minas Gerais (FCM-MG), especificamente na área de ISTS. 
   
 
 
