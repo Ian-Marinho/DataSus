@@ -65,6 +65,7 @@ https://www.scielo.br/j/ress/a/HKFmzFf8qgtryPHrxH679yJ/
 
 ### Cor Raça ###
 https://cadernos.ensp.fiocruz.br/ojs/index.php/csp/article/view/3253
+
 **https://www.scielo.br/j/sausoc/a/KBVDVfxyWPqVQWHL6yPhFPF/?lang=pt**
 
 ### Estudo da distribuição da subnotificação do HIV/aids no Brasil, 2012 a 2016 ###
@@ -72,21 +73,29 @@ https://repositorio.unb.br/handle/10482/35748
 
 ### Faixa Etaria ###
 https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt
+
 https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
+
 **https://www.scielo.br/j/sausoc/a/KBVDVfxyWPqVQWHL6yPhFPF/?lang=pt**
+
 **https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt**
 
 ### education, job and income generation and housing were associated with AIDS mortality. (anafalbetismo) ###
+
 https://www.scielo.br/j/reben/a/KtDh5ZsfwRjmNgg3tpq54rB/?lang=en
+
 **https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt**
 
 ### Sexo Biologico (Gênero)  ###
+
 https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
 
 ### Custo do Plano de Saude ###
+
 https://www.scielo.br/j/rsp/a/XSm5h7HKnj9c4zLbxkdYNrk/?lang=pt
 
 ### Campanhas de prevenção ###
+
 https://www.scielo.br/j/sess/a/zvdBDSr6Z9z7cv7w5gMKVPQ/?lang=es
 
 https://www.scielo.br/j/estpsi/a/vFr55n88gBhsYKcvCn7kXmP/?lang=en
@@ -98,9 +107,11 @@ https://www.scielo.br/j/rlae/a/ctmGLqD5fKDsQCTnz9nKRbJ/?lang=en
 https://www.scielo.br/j/ape/a/y7VFMfdmBYdFVgQFYrSK3Zs/?lang=pt
 
 ### Numero de parceiros sexuaus ###
+
 https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412019000200002&lang=pt
 
 ### Prevenção pre-natal ###
+
 https://www.scielo.br/j/dn/a/9NGw4mXR8NVr6WCYdkJg8YB/?lang=en
 
 https://www.scielo.br/j/rbsmi/a/GqWgGXKrbrGwPXF5rBfMFqS/?lang=pt
