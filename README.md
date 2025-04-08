@@ -57,7 +57,25 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
   Ângela Lúcia Lopes, Orientadora/Professora da Faculdade de Ciências Médicas de Minas Gerais (FCM-MG), especificamente na área de ISTS. 
   
 
+## Artigos ##
 
+https://www.scielo.br/j/ress/a/HKFmzFf8qgtryPHrxH679yJ/
+
+https://cadernos.ensp.fiocruz.br/ojs/index.php/csp/article/view/3253
+
+https://scielosp.org/article/csc/2021.v26n4/1299-1310/pt/
+
+https://repositorio.unb.br/handle/10482/35748
+
+https://www.scielo.br/j/csp/a/fq7ZWbPPY8CkDZsWh8FYtYh/
+
+https://www.scielo.br/j/sausoc/a/qM8HPZkVqWnDWgMzsbWQKhg/
+
+https://www.scielo.br/j/csp/a/8kW5XmhKJy9cKYfBRGVNQdL/
+
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-21002018000300299&lang=pt
+
+http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412019000200002&lang=pt
 ## Links uteis ##
 
 https://datasus.saude.gov.br/transferencia-de-arquivos/
