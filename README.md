@@ -67,13 +67,39 @@ https://cadernos.ensp.fiocruz.br/ojs/index.php/csp/article/view/3253
 ### Estudo da distribuição da subnotificação do HIV/aids no Brasil, 2012 a 2016 ###
 https://repositorio.unb.br/handle/10482/35748
 
-### 
+
+### Faixa Etaria ###
+https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt
+https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
+
+### education, job and income generation and housing were associated with AIDS mortality. (anafalbetismo) ###
+https://www.scielo.br/j/reben/a/KtDh5ZsfwRjmNgg3tpq54rB/?lang=en
+
+### Sexo Biologico (Gênero)  ###
+https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
+
+### Custo do Plano de Saude ###
+
+### Campanhas de prevenção ###
+https://www.scielo.br/j/sess/a/zvdBDSr6Z9z7cv7w5gMKVPQ/?lang=es
+
+### Numero de parceiros sexuaus ###
+
+### Prevenção pre-natal ###
+
+###
+
+
+
+
+----
+
 https://www.scielo.br/j/csp/a/8kW5XmhKJy9cKYfBRGVNQdL/
 
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-21002018000300299&lang=pt
 
-###  ###
 http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412019000200002&lang=pt
+
 ## Links uteis ##
 
 https://datasus.saude.gov.br/transferencia-de-arquivos/
