@@ -94,7 +94,11 @@ https://www.scielo.br/j/estpsi/a/vFr55n88gBhsYKcvCn7kXmP/?lang=en
 https://www.scielo.br/j/rlae/a/VsH4KcFzQmLmJJVwGwzqqdP/?lang=en
 
 https://www.scielo.br/j/rlae/a/ctmGLqD5fKDsQCTnz9nKRbJ/?lang=en
+
+https://www.scielo.br/j/ape/a/y7VFMfdmBYdFVgQFYrSK3Zs/?lang=pt
+
 ### Numero de parceiros sexuaus ###
+https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412019000200002&lang=pt
 
 ### Prevenção pre-natal ###
 https://www.scielo.br/j/dn/a/9NGw4mXR8NVr6WCYdkJg8YB/?lang=en
@@ -102,15 +106,7 @@ https://www.scielo.br/j/dn/a/9NGw4mXR8NVr6WCYdkJg8YB/?lang=en
 https://www.scielo.br/j/rbsmi/a/GqWgGXKrbrGwPXF5rBfMFqS/?lang=pt
 
 https://www.scielo.br/j/reeusp/a/Hx5H6S3xTJ7PxBsZZHq9Fpg/?lang=en
-### Links a olhar ###
 
-----
-
-https://www.scielo.br/j/csp/a/8kW5XmhKJy9cKYfBRGVNQdL/
-
-http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-21002018000300299&lang=pt
-
-http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412019000200002&lang=pt
 
 ## Links uteis ##
 
