@@ -58,39 +58,51 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
   
 
 ## Artigos ##
+## Links em negrito são que repetem e podem ser aplicados em mais de um atributo ##
 
 ### Análise espacial e temporal dos casos de aids no Brasil em 1996-2011: áreas de risco ###
 https://www.scielo.br/j/ress/a/HKFmzFf8qgtryPHrxH679yJ/
 
 ### Cor Raça ###
 https://cadernos.ensp.fiocruz.br/ojs/index.php/csp/article/view/3253
+**https://www.scielo.br/j/sausoc/a/KBVDVfxyWPqVQWHL6yPhFPF/?lang=pt**
+
 ### Estudo da distribuição da subnotificação do HIV/aids no Brasil, 2012 a 2016 ###
 https://repositorio.unb.br/handle/10482/35748
-
 
 ### Faixa Etaria ###
 https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt
 https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
+**https://www.scielo.br/j/sausoc/a/KBVDVfxyWPqVQWHL6yPhFPF/?lang=pt**
+**https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt**
 
 ### education, job and income generation and housing were associated with AIDS mortality. (anafalbetismo) ###
 https://www.scielo.br/j/reben/a/KtDh5ZsfwRjmNgg3tpq54rB/?lang=en
+**https://www.scielo.br/j/csc/a/FYSWjDWdV5ctRxTsBpbp4Zd/?lang=pt**
 
 ### Sexo Biologico (Gênero)  ###
 https://www.scielo.br/j/sdeb/a/8YCnLDWkQzx46N7jdvPLqFQ/?lang=pt
 
 ### Custo do Plano de Saude ###
+https://www.scielo.br/j/rsp/a/XSm5h7HKnj9c4zLbxkdYNrk/?lang=pt
 
 ### Campanhas de prevenção ###
 https://www.scielo.br/j/sess/a/zvdBDSr6Z9z7cv7w5gMKVPQ/?lang=es
 
+https://www.scielo.br/j/estpsi/a/vFr55n88gBhsYKcvCn7kXmP/?lang=en
+
+https://www.scielo.br/j/rlae/a/VsH4KcFzQmLmJJVwGwzqqdP/?lang=en
+
+https://www.scielo.br/j/rlae/a/ctmGLqD5fKDsQCTnz9nKRbJ/?lang=en
 ### Numero de parceiros sexuaus ###
 
 ### Prevenção pre-natal ###
+https://www.scielo.br/j/dn/a/9NGw4mXR8NVr6WCYdkJg8YB/?lang=en
 
-###
+https://www.scielo.br/j/rbsmi/a/GqWgGXKrbrGwPXF5rBfMFqS/?lang=pt
 
-
-
+https://www.scielo.br/j/reeusp/a/Hx5H6S3xTJ7PxBsZZHq9Fpg/?lang=en
+### Links a olhar ###
 
 ----
 
