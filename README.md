@@ -52,6 +52,11 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
   - ● Histórico de ISTs → (Recorrência, Tratamento Prévio)
   - ● Prevenção Pré-Natal → (Acompanhamento de Gestantes)
  
+- Desemprego
+  -https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1428349
+  -https://pesquisa.bvsalud.org/portal/resource/pt/mdl-39779625
+  -
+ 
   ## Referencia para os atributos ##
 
   Ângela Lúcia Lopes, Orientadora/Professora da Faculdade de Ciências Médicas de Minas Gerais (FCM-MG), especificamente na área de ISTS. 
