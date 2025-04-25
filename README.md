@@ -13,6 +13,7 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 - 1- Campanhas preventivas
 - 2- Empregabilidade*
 - 3- Escolaridade
+  
   sugestão https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1046449
 - 3- Anafalbetismo
 - 4- Custo de Plano de Saude
@@ -20,33 +21,51 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 
 ### Ian ###
 - 6- Prevenção pre-natal
+
   falta de prevençao
   https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1046449
+  
 - 7- Saneamento (Descarte de agulhas, etc)
+
+  transmissao por sangue/ mucosa
+  https://www.researchgate.net/profile/Nilo-Barreto/publication/365711751_Aspectos_relevantes_sobre_as_infeccoes_por_geohelmintos_HTLV-1_e_Sifilis/links/637f801ac2cb154d292161b6/Aspectos-relevantes-sobre-as-infeccoes-por-geohelmintos-HTLV-1-e-Sifilis.pdf
   
 - 8- Faixa etária
+
   jovens (15-39)
   https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
   idosos
+
   https://recisatec.com.br/index.php/recisatec/article/view/30
   https://rsdjournal.org/index.php/rsd/article/view/25201
 - 9- Gênero
+
   +Homem
   https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
   https://rsdjournal.org/index.php/rsd/article/view/11180
+
   +Mulher
   https://pesquisa.bvsalud.org/portal/resource/pt/biblio-911357
+  https://www.researchgate.net/profile/Nilo-Barreto/publication/365711751_Aspectos_relevantes_sobre_as_infeccoes_por_geohelmintos_HTLV-1_e_Sifilis/links/637f801ac2cb154d292161b6/Aspectos-relevantes-sobre-as-infeccoes-por-geohelmintos-HTLV-1-e-Sifilis.pdf
   
   
 - 10- Número de Parceiros Sexuais*
 
+  parceiros fixos
+  https://www.scielo.br/j/rbgo/a/TMXJjB5dMJHmnsfR8pTmtFv/
+
+  falta de cuidado do parceiro
+  https://www.scielosp.org/article/csc/2024.v29n5/e12162023/pt/
+
 ### Alvaro ###
 - 11- Orientação Sexual
 - 12- Raça/Cor
+
   sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
 - 13- Data da Notificação
 - 14- Localização Geográfica
-   sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
+
+  sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
 - 15- Uso de Preservativos
 
 ## Modelo Conceitual ##
