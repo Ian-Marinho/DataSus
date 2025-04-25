@@ -10,24 +10,24 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 
 ## Atributos ##
 João
-1- Campanhas preventivas
-2- Empregabilidade*
-3- Escolaridade 
-3- Anafalbetismo
-4- Custo de Plano de Saude
-5- Investimento do Sus
+- 1- Campanhas preventivas
+- 2- Empregabilidade*
+- 3- Escolaridade 
+- 3- Anafalbetismo
+- 4- Custo de Plano de Saude
+- 5- Investimento do Sus
 Ian
-6- Prevenção pre-natal
-7- Saneamento (Descarte de agulhas, etc)
-8- Faixa etária
-9- Gênero
-10- Número de Parceiros Sexuais*
+- 6- Prevenção pre-natal
+- 7- Saneamento (Descarte de agulhas, etc)
+- 8- Faixa etária
+- 9- Gênero
+- 10- Número de Parceiros Sexuais*
 Alvaro
-11- Orientação Sexual
-12- Raça/Cor
-13- Data da Notificação
-14- Localização Geográfica
-15- Uso de Preservativos
+- 11- Orientação Sexual
+- 12- Raça/Cor
+- 13- Data da Notificação
+- 14- Localização Geográfica
+- 15- Uso de Preservativos
 
 ## Modelo Conceitual ##
 
