@@ -64,6 +64,7 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 
   sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
 - 13- Data da Notificação
+ https://www.scielo.br/j/ress/a/q5m8PnXBYgWS9dRmcBqH3JR
 - 14- Localização Geográfica
  https://pubmed.ncbi.nlm.nih.gov/36201505/#&gid=article-figures&pid=fig-5-uid-4
 
