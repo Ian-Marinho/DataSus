@@ -10,6 +10,88 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 # ATRIBUTOS - Vinicius Bigonha #
 
+Idade
+➔ "A idade materna entre 20 e 29 anos apresentou maior prevalência de sífilis gestacional, evidenciando a importância da faixa etária como fator de risco."
+
+Sexo
+➔ "Homens apresentaram taxas de soroprevalência superiores em ambientes de maior vulnerabilidade social."
+
+Cor/Etnia
+➔ "Mulheres negras ou pardas têm maior probabilidade de apresentar sífilis congênita, indicando vulnerabilidade social acentuada." 
+
+Escolaridade
+➔ "Baixa escolaridade foi identificada como fator associado à ocorrência de sífilis em gestantes." 
+
+Número de Parceiros Sexuais
+➔ "O risco de infecção por sífilis aumenta proporcionalmente com o número de parceiros sexuais nos últimos 12 meses." 
+
+Uso de Drogas Recreativas
+➔ "Usuários de drogas ilícitas têm comportamentos sexuais de maior risco, aumentando a vulnerabilidade à sífilis." 
+
+Uso de Preservativos
+➔ "A não utilização regular de preservativos está fortemente associada à maior incidência de sífilis adquirida."
+
+Histórico de Infecção por ISTs
+➔ "Ter histórico prévio de infecção sexualmente transmissível é um preditor significativo para a ocorrência de sífilis."
+
+Histórico de Sexo Comercial
+➔ "A prática do sexo comercial está relacionada ao aumento do risco de infecção por sífilis em populações vulneráveis." (
+
+Co-infecção com HIV
+➔ "Indivíduos coinfectados com HIV apresentaram maior prevalência de sífilis secundária." 
+
+Acesso ao Pré-Natal
+➔ "A ausência de acompanhamento pré-natal adequado foi apontada como fator crucial para a ocorrência de sífilis congênita."
+
+Realização de Testes Rápidos
+➔ "A utilização de testes rápidos é essencial para detecção precoce da sífilis em gestantes e outros grupos vulneráveis."
+
+Renda Familiar
+➔ "Mulheres com menor renda familiar apresentaram maior vulnerabilidade à sífilis gestacional."
+
+Situação Conjugal
+➔ "Uniões instáveis mostraram-se associadas a um maior risco de infecção por sífilis." 
+
+Iniciação Sexual em Idade Precoce
+➔ "Iniciação sexual precoce é um fator associado a maior vulnerabilidade à sífilis e outras ISTs." 
+
+Estado de Residência
+➔ "O mapeamento estadual dos casos revelou padrões específicos de prevalência que devem ser considerados nos modelos." 
+
+Município
+➔ "Análises municipais indicam focos concentrados de sífilis, reforçando a importância da granularidade espacial nos dados." 
+
+Zona de Residência (Urbana/Rural)
+➔ "Áreas rurais apresentaram subnotificação, enquanto áreas urbanas concentraram a maioria dos casos de sífilis." 
+
+Ano da Notificação
+➔ "A análise temporal dos casos é fundamental para identificar tendências e surtos." 
+
+Resultado de Testes Sorológicos (VDRL e FTA-ABS)
+➔ "Resultados positivos em testes sorológicos como o VDRL e FTA-ABS confirmam a infecção ativa ou pregressa de sífilis." 
+
+Sintomas Apresentados no Momento do Diagnóstico
+➔ "Os sintomas relatados no diagnóstico são essenciais para a definição do estágio clínico da sífilis."
+
+Estágio da Sífilis
+➔ "O estágio da sífilis determina a conduta terapêutica e a prioridade de vigilância." 
+
+Tempo entre Diagnóstico e Início do Tratamento
+➔ "A demora entre o diagnóstico e o início do tratamento foi apontada como fator crítico para complicações da sífilis." 
+
+Tratamento do Parceiro
+➔ "O tratamento simultâneo do parceiro sexual é fundamental para evitar reinfecção e disseminação da sífilis." 
+
+Nível de Vulnerabilidade Social da Área
+➔ "Áreas de maior vulnerabilidade social apresentaram maior incidência de sífilis, reforçando a relação entre condições socioeconômicas e saúde." 
+
+Distribuição Geográfica
+➔ "A distribuição espacial dos casos de sífilis permite identificar padrões e focos emergentes da infecção." 
+
+Acesso a Serviços Públicos de Saúde
+➔ "A dificuldade de acesso a serviços públicos de saúde contribui para o atraso no diagnóstico e tratamento da sífilis." 
+
+
 # Links - Vinicius Bigonha #
 
 •Idade
