@@ -2,7 +2,7 @@
 
 ## Objetivo ##
 
-Mapear focos de Sífilis por estado no Brasil para subsidiar ações de prevenção e controle
+Desenvolver um modelo preditivo georreferenciado para identificar e antecipar focos de sífilis nos estados brasileiros, utilizando dados sociodemográficos, comportamentais e clínicos, visando subsidiar políticas públicas de prevenção e intervenção.
 
 ## Justificativa ##
 
