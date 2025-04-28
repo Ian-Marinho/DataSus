@@ -2,7 +2,7 @@
 
 ## Objetivo ##
 
-Mapear focos de AIDS por estado no Brasil para subsidiar ações de prevenção e controle da infecção pelo HIV
+Mapear focos de Sífilis por estado no Brasil para subsidiar ações de prevenção e controle
 
 ## Justificativa ##
 
