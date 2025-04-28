@@ -65,14 +65,6 @@ https://noticias.saudepublica.bvs.br/blog/ministerio-da-saude-lanca-campanha-de-
   https://pesquisa.bvsalud.org/portal/resource/pt/biblio-911357
   https://www.researchgate.net/profile/Nilo-Barreto/publication/365711751_Aspectos_relevantes_sobre_as_infeccoes_por_geohelmintos_HTLV-1_e_Sifilis/links/637f801ac2cb154d292161b6/Aspectos-relevantes-sobre-as-infeccoes-por-geohelmintos-HTLV-1-e-Sifilis.pdf
   
-  
-- 10- Número de Parceiros Sexuais*
-
-  parceiros fixos
-  https://www.scielo.br/j/rbgo/a/TMXJjB5dMJHmnsfR8pTmtFv/
-
-  falta de cuidado do parceiro
-  https://www.scielosp.org/article/csc/2024.v29n5/e12162023/pt/
 
 ### Alvaro ###
 - 11- Orientação Sexual
@@ -86,7 +78,7 @@ https://noticias.saudepublica.bvs.br/blog/ministerio-da-saude-lanca-campanha-de-
  https://pubmed.ncbi.nlm.nih.gov/36201505/#&gid=article-figures&pid=fig-5-uid-4
 
   sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
-- 15- Uso de Preservativos
+
 
 ## Modelo Conceitual ##
 
