@@ -10,11 +10,6 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 # ATRIBUTOS - Vinicius Bigonha #
 
-  ## Referencia para os atributos ##
-
-## Artigos ##
-## Links em negrito são que repetem e podem ser aplicados em mais de um atributo ##
-
 # Links - Vinicius Bigonha #
 
 •Idade
