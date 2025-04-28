@@ -78,14 +78,11 @@ https://noticias.saudepublica.bvs.br/blog/ministerio-da-saude-lanca-campanha-de-
   sugestão: https://scholar.archive.org/work/4xgrefqpebaypf7irunmzjyqie/access/wayback/https://brazilianjournals.com/ojs/index.php/BRJD/article/download/50461/pdf
 
 
-## Modelo Conceitual ##
 
   ## Referencia para os atributos ##
 
   Ângela Lúcia Lopes, Orientadora/Professora da Faculdade de Ciências Médicas de Minas Gerais (FCM-MG), especificamente na área de ISTS. 
   
-
-## Artigos ##
 
 
 ## Links uteis ##
