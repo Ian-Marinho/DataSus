@@ -11,13 +11,30 @@ A AIDS continua sendo um importante problema de saúde pública no Brasil, com i
 ## Atributos ##
 ### João ###
 - 1- Campanhas preventivas
+
+https://informe.ensp.fiocruz.br/noticias/52301?.com
+https://portaldeboaspraticas.iff.fiocruz.br/wp-content/uploads/2019/11/agenda_sifilis_20_11_2017.pdf?.com
+  
 - 2- Empregabilidade*
+
+https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?format=pdf&lang=pt&.com
+
 - 3- Escolaridade
   
   sugestão https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1046449
 - 3- Anafalbetismo
+
+  https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?format=pdf&lang=pt&.com (sim esse é o mesmo do 2)
+  https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?lang=pt&.com
+  
 - 4- Custo de Plano de Saude
+
+https://www.scielo.br/j/rbsmi/a/hdm6nXXnhJ863LJZQVbh6rc/?lang=pt&.com
+
 - 5- Investimento do Sus
+
+https://www.scielo.br/j/csp/a/HHKTNLdmXsxZwNYmPKsQkpC/?.com
+https://noticias.saudepublica.bvs.br/blog/ministerio-da-saude-lanca-campanha-de-combate-a-sifilis/?.com
 
 ### Ian ###
 - 6- Prevenção pre-natal
