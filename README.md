@@ -22,8 +22,6 @@ https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?format=pdf&lang=pt&.com
 - 3- Escolaridade
   
   sugestão https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1046449
-- 3- Anafalbetismo
-
   https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?format=pdf&lang=pt&.com (sim esse é o mesmo do 2)
   https://www.scielo.br/j/rbsmi/a/Ms6dWNhFL9TY9J8J4PgNK5j/?lang=pt&.com
   
