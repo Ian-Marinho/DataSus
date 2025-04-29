@@ -11,7 +11,7 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 # ATRIBUTOS - Vinicius Bigonha #
 
 Idade
-➔ "A idade materna entre 20 e 29 anos apresentou maior prevalência de sífilis gestacional, evidenciando a importância da faixa etária como fator de risco."
+➔ "A variável idade mostrou-se significativa na modelagem, uma vez que difererntes faixas etárias apresentaram padrões distintos de exposição e vulnerabilidade à sífilis"
 
 Sexo
 ➔ "Homens apresentaram taxas de soroprevalência superiores em ambientes de maior vulnerabilidade social."
