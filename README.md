@@ -94,167 +94,80 @@ Acesso a Serviços Públicos de Saúde
 
 # Links - Vinicius Bigonha #
 
-•Idade
+ ###  % de população com ensino médio completo ### 
+https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+https://bvsms.saude.gov.br/bvs/publicacoes/indicadores_basicos_saude_brasil_2020.pdf
 
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
+ ###  Distribuição etária da população municipal ### 
+https://www.sciencedirect.com/science/article/pii/S2214109X18302082
 
-•Sexo
+https://pubmed.ncbi.nlm.nih.gov/34529215/
 
-  https://www.scielo.br/j/rimtsp/a/P5PwLSKXJXvxydh7GvMHrDP/
+ ###  Proporção de população masculina e feminina ### 
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11764-6
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+https://pubmed.ncbi.nlm.nih.gov/30587263/
 
-•Cor/Etnia
+ ###  Renda média per capita ### 
+https://scielosp.org/article/csp/2021.v37n5/e00213020/
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-6133-3
 
-  https://www.arca.fiocruz.br/handle/icict/26648
+ ### Proporção de uso de preservativos em campanhas de saúde ### 
+https://www.scielo.br/j/rbepid/a/85NsdnBGkZcNWVK7fGBBBbv/?lang=pt
 
-•Escolaridade
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-6129-z
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+ ### Taxa de notificação de ISTs por 100 mil habitantes ### 
+https://www.scielo.br/j/csp/a/QzZ3RQyyX8Ycd8PRYPXR6rD/?lang=pt
 
-  https://www.arca.fiocruz.br/handle/icict/26648
+https://scielosp.org/article/rsp/2021.v55/9/
 
-•Número de Parceiros Sexuais
+ ### % de população com acesso a UBS ### 
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08905-0
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+https://www.scielosp.org/article/csp/2020.v36n12/e00208919/
 
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061262
+ ### % de população com acesso a testagem rápida em UBS ### 
+https://www.scielo.br/j/rbepid/a/WxYHcZShn4LdZpBj3V5FBYF/?lang=pt
 
-•Uso de Drogas Recreativas
+https://www.scielo.br/j/csp/a/85Jq9Q7CydPqBGnhTcr3FGc/?lang=pt
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+ ### % de tratamento iniciado em < 7 dias após notificação ### 
+https://www.scielo.br/j/csp/a/85NsdnBGkZcNWVK7fGBBBbv/?lang=pt
 
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
+https://scielosp.org/article/csp/2020.v36n1/e00112718/
 
-•Uso de Preservativos
+ ### Taxa de detecção de sífilis por 100 mil hab. ### 
+https://www.scielo.br/j/csc/a/3b5cLxYB3k8Lk4SvhQWPHkx/?lang=pt
 
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
+https://scielosp.org/article/rsp/2021.v55/9/
 
-  https://www.scielo.br/j/rimtsp/a/P5PwLSKXJXvxydh7GvMHrDP/
+ ### % de gestantes com 1º consulta pré-natal até 12 semanas ### 
+https://www.scielo.br/j/csp/a/9nP8mJcgd9R7kVDhxZXLWyq/?lang=pt
 
-•Histórico de Infecção por ISTs
+https://www.scielo.br/j/rbepid/a/BvGKVhhW3SzTpjH9kCk9D6J/?lang=pt
 
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
+ ### % de municípios com notificação tardia de sífilis gestacional ### 
+https://scielosp.org/article/csp/2022.v38n5/e00012321/
 
-  https://www.arca.fiocruz.br/handle/icict/26648
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11167-6
 
-•Histórico de Sexo Comercial
+### % de municípios com inconsistência entre dados de gestantes e congênita ### 
+https://scielosp.org/article/csp/2021.v37n2/e00236319/
 
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
+https://scielosp.org/article/csp/2022.v38n5/e00012321/
 
-  https://periodicos.ufjf.br/index.php/aps/article/view/16882
+### % de municípios com baixa cobertura da ESF ### 
+https://scielosp.org/article/csp/2020.v36n12/e00208919/
 
-•Co-infecção com HIV
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08905-0
 
-  https://periodicos.ufjf.br/index.php/aps/article/view/16882
+### % de municípios silenciosos (sem notificação por >12 meses) ### 
+https://scielosp.org/article/csp/2022.v38n5/e00012321/
 
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
-
-•Acesso ao Pré-Natal
-
-  https://www.arca.fiocruz.br/handle/icict/26648
-
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
-
-•Realização de Testes Rápidos
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://www.scielo.br/j/rimtsp/a/P5PwLSKXJXvxydh7GvMHrDP/
-
-•Renda Familiar
-
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
-
-  https://www.arca.fiocruz.br/handle/icict/44507
-
-•Situação Conjugal
-
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
-
-  https://repositorio.ufrn.br/handle/123456789/30781
-
-•Iniciação Sexual em Idade Precoce
-
-  https://repositorio.ufrn.br/handle/123456789/30781
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-•Estado de Residência
-  
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061262
-
-•Município
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061262
-
-•Zona de Residência (Urbana/Rural)
-
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
-
-  https://www.arca.fiocruz.br/handle/icict/26648
-
-•Ano da Notificação
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061262
-
-•Resultado de Testes Sorológicos (VDRL e FTA-ABS)
-
-  https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-•Sintomas Apresentados no Momento do Diagnóstico
-
-  https://repositorio.ufrn.br/handle/123456789/30781
-
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
-
-•Estágio da Sífilis
-
-  https://repositorio.ufrn.br/handle/123456789/30781
-
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
-
-•Tempo entre Diagnóstico e Início do Tratamento
-
-  https://repositorio.ufrn.br/handle/123456789/30781
-
-  https://www.arca.fiocruz.br/handle/icict/26648
-
-•Tratamento do Parceiro
-
-  https://www.scielo.br/j/rimtsp/a/P5PwLSKXJXvxydh7GvMHrDP/
-
-  https://www.arca.fiocruz.br/handle/icict/26648
-
-•Nível de Vulnerabilidade Social da Área
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061262
-
-•Distribuição Geográfica
-
-  https://www.medrxiv.org/content/10.1101/2024.04.11.24305694v1.full
-
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990018/
-
-• Acesso a Serviços Públicos de Saúde
-
-  https://www.arca.fiocruz.br/handle/icict/26648
-
-  https://repositorio.ufrn.br/handle/123456789/30781
+https://scielosp.org/article/csp/2020.v36n1/e00112718/
 
 
 
