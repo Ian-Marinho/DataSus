@@ -10,6 +10,10 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 # ATRIBUTOS - Vinicius Bigonha #
 
+### Vulnerabilidade Social ###
+“A sífilis é uma infecção intimamente relacionada aos determinantes sociais da saúde, incluindo pobreza, baixa escolaridade, desemprego e dificuldades de acesso aos serviços de saúde. Tais fatores compõem um cenário de vulnerabilidade social que potencializa a disseminação da doença em determinados territórios.”
+https://www.scielo.br/j/csc/a/YYbGV8F9KwSKJKpHfZyXjFQ/
+
 ### % de tratamentos iniciados em ≤ 7 dias após notificação ### 
 “O início precoce do tratamento está associado à interrupção da cadeia de transmissão da sífilis, sendo um dos pilares no controle da doença, especialmente em contextos com elevada incidência.”
 
