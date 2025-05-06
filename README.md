@@ -12,7 +12,6 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 ### Vulnerabilidade Social ###
 “A sífilis é uma infecção intimamente relacionada aos determinantes sociais da saúde, incluindo pobreza, baixa escolaridade, desemprego e dificuldades de acesso aos serviços de saúde. Tais fatores compõem um cenário de vulnerabilidade social que potencializa a disseminação da doença em determinados territórios.”
-https://www.scielo.br/j/csc/a/YYbGV8F9KwSKJKpHfZyXjFQ/
 
 ### % de tratamentos iniciados em ≤ 7 dias após notificação ### 
 “O início precoce do tratamento está associado à interrupção da cadeia de transmissão da sífilis, sendo um dos pilares no controle da doença, especialmente em contextos com elevada incidência.”
@@ -80,9 +79,6 @@ https://www.scielo.br/j/csp/a/Vs4mJhXNQ6cM9rN6Qoqrujv/?lang=pt
 https://bvsms.saude.gov.br/bvs/publicacoes/indicadores_basicos_saude_brasil_2020.pdf
 
  ###  Distribuição etária da população municipal ### 
-https://www.sciencedirect.com/science/article/pii/S2214109X18302082
-
-https://pubmed.ncbi.nlm.nih.gov/34529215/
 
  ###  Proporção de população masculina e feminina ### 
 https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11764-6
@@ -145,9 +141,9 @@ https://scielosp.org/article/csp/2020.v36n12/e00208919/
 https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08905-0
 
 ### % de municípios silenciosos (sem notificação por >12 meses) ### 
-https://scielosp.org/article/csp/2022.v38n5/e00012321/
+[[https://scielosp.org/article/csp/2022.v38n5/e00012321/
 
-https://scielosp.org/article/csp/2020.v36n1/e00112718/
+https://scielosp.org/article/csp/2020.v36n1/e00112718/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6612729/)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6612729/)
 
 ### Proporção da população em situação de pobreza ### 
 https://repositorio.ipea.gov.br/handle/11058/4381
