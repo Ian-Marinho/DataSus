@@ -10,50 +10,50 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 # ATRIBUTOS - Vinicius Bigonha #
 
-% de tratamentos iniciados em ≤ 7 dias após notificação
+### % de tratamentos iniciados em ≤ 7 dias após notificação ### 
 “O início precoce do tratamento está associado à interrupção da cadeia de transmissão da sífilis, sendo um dos pilares no controle da doença, especialmente em contextos com elevada incidência.”
 
-% de municípios sem notificação de sífilis em determinado período (Municípios Silenciosos)
+### % de municípios sem notificação de sífilis em determinado período (Municípios Silenciosos) ### 
 “A ausência de notificações pode indicar falhas no sistema de vigilância epidemiológica, subnotificação e desestruturação dos serviços de saúde, mascarando a real magnitude da doença.”
 
-Proporção de população por faixa etária / Distribuição etária da população
+### Proporção de população por faixa etária / Distribuição etária da população ### 
 “A distribuição etária está diretamente relacionada ao risco de exposição e transmissão da sífilis, com maior incidência entre adultos jovens.”
 
-Proporção de população masculina e feminina
+### Proporção de população masculina e feminina ### 
 “A prevalência da sífilis apresenta diferenças entre sexos, com homens cis e mulheres cis em idades reprodutivas formando os grupos mais afetados, o que justifica a análise por proporção de sexo.”
 
-% de população com ensino médio completo
+### % de população com ensino médio completo ### 
 “A escolaridade influencia diretamente no acesso à informação sobre ISTs, comportamento preventivo e busca por testagem e tratamento.”
 
-% de população com ensino superior
+### % de população com ensino superior ### 
 “Populações com maior nível educacional tendem a aderir melhor às campanhas de prevenção e a utilizar serviços de saúde com maior frequência.”
 
-Taxa de analfabetismo
+### Taxa de analfabetismo ### 
 “O analfabetismo é um dos indicadores mais consistentes de vulnerabilidade social e está correlacionado com piores indicadores de saúde, incluindo infecções sexualmente transmissíveis.”
 
-% de pessoas abaixo da linha da pobreza
+### % de pessoas abaixo da linha da pobreza ### 
 “A pobreza compromete o acesso a serviços de saúde, à informação e aos meios de prevenção, favorecendo a disseminação de ISTs.”
 
-Renda per capita / Média da renda per capita
+### Renda per capita / Média da renda per capita ### 
 “A desigualdade de renda está entre os determinantes sociais da saúde mais associados à incidência de sífilis, influenciando o acesso ao diagnóstico e tratamento.”
 
-Cobertura da Atenção Básica (ESF) / % de cobertura da Estratégia Saúde da Família
+### Cobertura da Atenção Básica (ESF) / % de cobertura da Estratégia Saúde da Família ### 
 “A cobertura da ESF é um fator protetor para a sífilis ao facilitar o acesso precoce ao diagnóstico e tratamento.”
 
-% de domicílios com coleta de lixo regular
+### % de domicílios com coleta de lixo regular ### 
 “Indicadores de saneamento básico refletem as condições estruturais dos municípios e são frequentemente usados como proxies de desenvolvimento e vulnerabilidade social.”
 
-% de domicílios com acesso à rede de esgoto
+### % de domicílios com acesso à rede de esgoto ### 
 “A baixa cobertura de saneamento básico está correlacionada com piores indicadores de saúde pública e vulnerabilidade a doenças transmissíveis.” 
 
-% de domicílios com água canalizada e tratada
+### % de domicílios com água canalizada e tratada ### 
 “O acesso à água potável é um indicador estrutural de saúde pública e está entre os componentes essenciais para ambientes saudáveis.”
 
-% de população residente em área urbana
+### % de população residente em área urbana ### 
 “A urbanização está relacionada ao aumento da mobilidade, concentração populacional e comportamentos de risco, elevando a exposição à sífilis.”
 
-(Municípios Silenciosos
-“A detecção de municípios que não notificam sífilis é essencial para identificar falhas no sistema de informação em saúde e áreas prioritárias de intervenção.)
+### (Municípios Silenciosos ### 
+### “A detecção de municípios que não notificam sífilis é essencial para identificar falhas no sistema de informação em saúde e áreas prioritárias de intervenção.) ### 
 
 
 # Links - Vinicius Bigonha #
