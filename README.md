@@ -10,86 +10,50 @@ A Sifilis continua sendo um importante problema de saúde pública no Brasil, co
 
 # ATRIBUTOS - Vinicius Bigonha #
 
-Idade
-➔ "A variável idade mostrou-se significativa na modelagem, uma vez que difererntes faixas etárias apresentaram padrões distintos de exposição e vulnerabilidade à sífilis"
+% de tratamentos iniciados em ≤ 7 dias após notificação
+“O início precoce do tratamento está associado à interrupção da cadeia de transmissão da sífilis, sendo um dos pilares no controle da doença, especialmente em contextos com elevada incidência.”
 
-Sexo
-➔ "Homens apresentaram taxas de soroprevalência superiores em ambientes de maior vulnerabilidade social."
+% de municípios sem notificação de sífilis em determinado período (Municípios Silenciosos)
+“A ausência de notificações pode indicar falhas no sistema de vigilância epidemiológica, subnotificação e desestruturação dos serviços de saúde, mascarando a real magnitude da doença.”
 
-Cor/Etnia
-➔ "Mulheres negras ou pardas têm maior probabilidade de apresentar sífilis congênita, indicando vulnerabilidade social acentuada." 
+Proporção de população por faixa etária / Distribuição etária da população
+“A distribuição etária está diretamente relacionada ao risco de exposição e transmissão da sífilis, com maior incidência entre adultos jovens.”
 
-Escolaridade
-➔ "Baixa escolaridade foi identificada como fator associado à ocorrência de sífilis em gestantes." 
+Proporção de população masculina e feminina
+“A prevalência da sífilis apresenta diferenças entre sexos, com homens cis e mulheres cis em idades reprodutivas formando os grupos mais afetados, o que justifica a análise por proporção de sexo.”
 
-Número de Parceiros Sexuais
-➔ "O risco de infecção por sífilis aumenta proporcionalmente com o número de parceiros sexuais nos últimos 12 meses." 
+% de população com ensino médio completo
+“A escolaridade influencia diretamente no acesso à informação sobre ISTs, comportamento preventivo e busca por testagem e tratamento.”
 
-Uso de Drogas Recreativas
-➔ "Usuários de drogas ilícitas têm comportamentos sexuais de maior risco, aumentando a vulnerabilidade à sífilis." 
+% de população com ensino superior
+“Populações com maior nível educacional tendem a aderir melhor às campanhas de prevenção e a utilizar serviços de saúde com maior frequência.”
 
-Uso de Preservativos
-➔ "A não utilização regular de preservativos está fortemente associada à maior incidência de sífilis adquirida."
+Taxa de analfabetismo
+“O analfabetismo é um dos indicadores mais consistentes de vulnerabilidade social e está correlacionado com piores indicadores de saúde, incluindo infecções sexualmente transmissíveis.”
 
-Histórico de Infecção por ISTs
-➔ "Ter histórico prévio de infecção sexualmente transmissível é um preditor significativo para a ocorrência de sífilis."
+% de pessoas abaixo da linha da pobreza
+“A pobreza compromete o acesso a serviços de saúde, à informação e aos meios de prevenção, favorecendo a disseminação de ISTs.”
 
-Histórico de Sexo Comercial
-➔ "A prática do sexo comercial está relacionada ao aumento do risco de infecção por sífilis em populações vulneráveis." (
+Renda per capita / Média da renda per capita
+“A desigualdade de renda está entre os determinantes sociais da saúde mais associados à incidência de sífilis, influenciando o acesso ao diagnóstico e tratamento.”
 
-Co-infecção com HIV
-➔ "Indivíduos coinfectados com HIV apresentaram maior prevalência de sífilis secundária." 
+Cobertura da Atenção Básica (ESF) / % de cobertura da Estratégia Saúde da Família
+“A cobertura da ESF é um fator protetor para a sífilis ao facilitar o acesso precoce ao diagnóstico e tratamento.”
 
-Acesso ao Pré-Natal
-➔ "A ausência de acompanhamento pré-natal adequado foi apontada como fator crucial para a ocorrência de sífilis congênita."
+% de domicílios com coleta de lixo regular
+“Indicadores de saneamento básico refletem as condições estruturais dos municípios e são frequentemente usados como proxies de desenvolvimento e vulnerabilidade social.”
 
-Realização de Testes Rápidos
-➔ "A utilização de testes rápidos é essencial para detecção precoce da sífilis em gestantes e outros grupos vulneráveis."
+% de domicílios com acesso à rede de esgoto
+“A baixa cobertura de saneamento básico está correlacionada com piores indicadores de saúde pública e vulnerabilidade a doenças transmissíveis.” 
 
-Renda Familiar
-➔ "Mulheres com menor renda familiar apresentaram maior vulnerabilidade à sífilis gestacional."
+% de domicílios com água canalizada e tratada
+“O acesso à água potável é um indicador estrutural de saúde pública e está entre os componentes essenciais para ambientes saudáveis.”
 
-Situação Conjugal
-➔ "Uniões instáveis mostraram-se associadas a um maior risco de infecção por sífilis." 
+% de população residente em área urbana
+“A urbanização está relacionada ao aumento da mobilidade, concentração populacional e comportamentos de risco, elevando a exposição à sífilis.”
 
-Iniciação Sexual em Idade Precoce
-➔ "Iniciação sexual precoce é um fator associado a maior vulnerabilidade à sífilis e outras ISTs." 
-
-Estado de Residência
-➔ "O mapeamento estadual dos casos revelou padrões específicos de prevalência que devem ser considerados nos modelos." 
-
-Município
-➔ "Análises municipais indicam focos concentrados de sífilis, reforçando a importância da granularidade espacial nos dados." 
-
-Zona de Residência (Urbana/Rural)
-➔ "Áreas rurais apresentaram subnotificação, enquanto áreas urbanas concentraram a maioria dos casos de sífilis." 
-
-Ano da Notificação
-➔ "A análise temporal dos casos é fundamental para identificar tendências e surtos." 
-
-Resultado de Testes Sorológicos (VDRL e FTA-ABS)
-➔ "Resultados positivos em testes sorológicos como o VDRL e FTA-ABS confirmam a infecção ativa ou pregressa de sífilis." 
-
-Sintomas Apresentados no Momento do Diagnóstico
-➔ "Os sintomas relatados no diagnóstico são essenciais para a definição do estágio clínico da sífilis."
-
-Estágio da Sífilis
-➔ "O estágio da sífilis determina a conduta terapêutica e a prioridade de vigilância." 
-
-Tempo entre Diagnóstico e Início do Tratamento
-➔ "A demora entre o diagnóstico e o início do tratamento foi apontada como fator crítico para complicações da sífilis." 
-
-Tratamento do Parceiro
-➔ "O tratamento simultâneo do parceiro sexual é fundamental para evitar reinfecção e disseminação da sífilis." 
-
-Nível de Vulnerabilidade Social da Área
-➔ "Áreas de maior vulnerabilidade social apresentaram maior incidência de sífilis, reforçando a relação entre condições socioeconômicas e saúde." 
-
-Distribuição Geográfica
-➔ "A distribuição espacial dos casos de sífilis permite identificar padrões e focos emergentes da infecção." 
-
-Acesso a Serviços Públicos de Saúde
-➔ "A dificuldade de acesso a serviços públicos de saúde contribui para o atraso no diagnóstico e tratamento da sífilis." 
+(Municípios Silenciosos
+“A detecção de municípios que não notificam sífilis é essencial para identificar falhas no sistema de informação em saúde e áreas prioritárias de intervenção.)
 
 
 # Links - Vinicius Bigonha #
