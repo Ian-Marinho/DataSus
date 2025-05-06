@@ -56,6 +56,18 @@ https://www.scielo.br/j/csc/a/YYbGV8F9KwSKJKpHfZyXjFQ/
 ### % de população residente em área urbana ### 
 “A urbanização está relacionada ao aumento da mobilidade, concentração populacional e comportamentos de risco, elevando a exposição à sífilis.”
 
+### Índice de Vulnerabilidade Social (IVS) ### 
+"O IVS é um indicador sintético que reflete as fragilidades sociais dos municípios, considerando fatores como renda, educação e infraestrutura urbana."
+
+### Taxa de desemprego municipal ### 
+"Altas taxas de desemprego estão associadas à redução do acesso a serviços de saúde e aumento da vulnerabilidade a doenças infecciosas."
+
+### Proporção de famílias beneficiárias do Bolsa Família ou Cadastro Único ### 
+"A dependência de programas de assistência social indica níveis elevados de vulnerabilidade econômica e social"
+
+### % de jovens de 15 a 24 anos que não estudam, não trabalham e possuem baixa renda ### 
+"Jovens fora do sistema educacional e do mercado de trabalho estão em situação de risco social, o que pode levar a comportamentos que aumentam a exposição a ISTs."
+
 ### (Municípios Silenciosos ### 
 ### “A detecção de municípios que não notificam sífilis é essencial para identificar falhas no sistema de informação em saúde e áreas prioritárias de intervenção.) ### 
 
