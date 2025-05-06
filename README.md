@@ -149,6 +149,16 @@ https://scielosp.org/article/csp/2022.v38n5/e00012321/
 
 https://scielosp.org/article/csp/2020.v36n1/e00112718/
 
+### Proporção da população em situação de pobreza ### 
+https://repositorio.ipea.gov.br/handle/11058/4381
+
+https://repositorio.ipea.gov.br/handle/11058/8257
+
+### Proporção da população em situação de extrema pobreza ### 
+https://repositorio.ipea.gov.br/handle/11058/4381
+
+https://repositorio.ipea.gov.br/handle/11058/8257
+
 
 
 ## Links uteis ##
